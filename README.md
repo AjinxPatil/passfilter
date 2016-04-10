@@ -1,0 +1,2 @@
+# passfilter
+Password filtering and salting. Identifies and warns on commonly used passwords, restricts use of offensive words in passwords and provides a mechanism for salting passwords before any storage.
